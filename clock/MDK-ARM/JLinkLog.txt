@@ -1,0 +1,92 @@
+T5D40 003:783.124   SEGGER J-Link V7.66d Log File
+T5D40 003:783.290   DLL Compiled: Jun 21 2022 17:00:22
+T5D40 003:783.319   Logging started @ 2024-11-11 15:22
+T5D40 003:783.347 - 3783.362ms
+T5D40 003:783.383 JLINK_SetWarnOutHandler(...)
+T5D40 003:783.411 - 0.042ms
+T5D40 003:783.441 JLINK_OpenEx(...)
+T5D40 003:785.091   
+  ***** Error: 
+T5D40 003:785.154   Cannot connect to J-Link.
+T5D40 003:794.952 - 11.548ms returns "Cannot connect to J-Link."
+T5D40 003:795.419 
+  ***** 
+T5D40 003:795.482 API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T5D40 003:795.537 JLINK_GetHardwareVersion()
+T5D40 003:797.082   
+  ***** Error: 
+T5D40 003:797.142   Cannot connect to J-Link.
+T5D40 003:807.686 - 12.185ms
+T5D40 004:944.631 JLINK_IsOpen()
+T5D40 004:944.692 - 0.077ms returns 0x00
+T5D40 004:944.733 JLINK_EMU_SelectByUSBSN(SerialNo = 0)
+T5D40 004:946.258 - 1.547ms returns 0xFFFFFFFF
+T5D40 004:946.301 JLINK_EnableLog(...)
+T5D40 004:946.332 - 0.047ms
+T5D40 004:946.366 JLINK_SetLogFile(...)
+T5D40 004:946.401 - 0.051ms
+T5D40 004:946.434 JLINK_SetWarnOutHandler(...)
+T5D40 004:946.466 - 0.047ms
+T5D40 004:946.499 JLINK_OpenEx(...)
+T5D40 004:947.989   
+  ***** Error: 
+T5D40 004:948.050   Cannot connect to J-Link.
+T5D40 004:959.366 - 12.911ms returns "Cannot connect to J-Link."
+T5D40 004:959.873 
+  ***** 
+T5D40 004:959.942 API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T5D40 004:959.998 JLINK_GetHardwareVersion()
+T5D40 004:961.505   
+  ***** Error: 
+T5D40 004:961.556   Cannot connect to J-Link.
+T5D40 004:972.413 - 12.453ms
+T5D40 006:929.945 JLINK_IsOpen()
+T5D40 006:930.019 - 0.094ms returns 0x00
+T5D40 006:930.062 JLINK_EMU_SelectByUSBSN(SerialNo = 0)
+T5D40 006:931.601 - 1.564ms returns 0xFFFFFFFF
+T5D40 006:931.647 JLINK_EnableLog(...)
+T5D40 006:931.679 - 0.048ms
+T5D40 006:931.713 JLINK_SetLogFile(...)
+T5D40 006:931.745 - 0.047ms
+T5D40 006:931.778 JLINK_SetWarnOutHandler(...)
+T5D40 006:931.810 - 0.047ms
+T5D40 006:931.843 JLINK_OpenEx(...)
+T5D40 006:933.314   
+  ***** Error: 
+T5D40 006:933.369   Cannot connect to J-Link.
+T5D40 006:945.075 - 13.273ms returns "Cannot connect to J-Link."
+T5D40 006:945.628 
+  ***** 
+T5D40 006:945.678 API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T5D40 006:945.724 JLINK_GetHardwareVersion()
+T5D40 006:947.169   
+  ***** Error: 
+T5D40 006:947.223   Cannot connect to J-Link.
+T5D40 006:958.502 - 12.818ms
+T5D40 010:483.223 JLINK_IsOpen()
+T5D40 010:483.282 - 0.073ms returns 0x00
+T5D40 010:483.312 JLINK_EMU_SelectByUSBSN(SerialNo = 0)
+T5D40 010:484.623 - 1.332ms returns 0xFFFFFFFF
+T5D40 010:484.662 JLINK_EnableLog(...)
+T5D40 010:484.689 - 0.041ms
+T5D40 010:484.719 JLINK_SetLogFile(...)
+T5D40 010:484.747 - 0.041ms
+T5D40 010:484.775 JLINK_SetWarnOutHandler(...)
+T5D40 010:484.802 - 0.040ms
+T5D40 010:484.830 JLINK_OpenEx(...)
+T5D40 010:486.185   
+  ***** Error: 
+T5D40 010:486.249   Cannot connect to J-Link.
+T5D40 010:496.926 - 12.135ms returns "Cannot connect to J-Link."
+T5D40 010:497.396 
+  ***** 
+T5D40 010:497.451 API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T5D40 010:497.496 JLINK_GetHardwareVersion()
+T5D40 010:498.906   
+  ***** Error: 
+T5D40 010:498.963   Cannot connect to J-Link.
+T5D40 010:510.371 - 12.920ms
+T5D40 017:307.174 JLINK_Close()
+T5D40 017:307.319 - 0.160ms
+T5D40 017:307.349   
+T5D40 017:307.377   Closed
